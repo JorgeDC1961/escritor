@@ -1,0 +1,54 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color:bisque;
+  padding: 45px;
+}
+
+
+section{
+  text-align: left;
+}
+
+/* Estilo general de la sección */
+section {
+  padding: 20px;
+}
+
+/* Título de la sección */
+section h2 {
+  text-align: left;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+/* Contenedor flexible para las obras */
+.obras {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Cada figura (imagen + texto) */
+figure {
+  width: 100%;
+  max-width: 220px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Imagen dentro de la figura */
+figure img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Pie de imagen */
+figcaption {
+  margin-top: 8px;
+  font-size: 0.95em;
+  color: #333;
+}
