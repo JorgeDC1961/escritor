@@ -20,6 +20,7 @@ section h2 {
   text-align: left;
   font-size: 1.5em;
   margin-bottom: 20px;
+  font-weight: bold;
 }
 
 /* Contenedor flexible para las obras */
@@ -30,6 +31,12 @@ section h2 {
   gap: 20px;
 }
 
+/* Estilo para la sección de obras con ID */
+#obras {
+  background-color: #fdf6e3;
+  padding: 25px;
+  border: 1px solid #999;
+}
 /* Cada figura (imagen + texto) */
 figure {
   width: 100%;
@@ -51,4 +58,15 @@ figcaption {
   margin-top: 8px;
   font-size: 0.95em;
   color: #333;
+}
+.nota-video {
+  font-size: 0.9em;
+  color: #555;
+  text-align: left;
+  font-style: italic;
+  margin-top: 10px;
+}
+.destacado{
+  font-weight: bold;
+  color: #006699;
 }
