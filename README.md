@@ -1,22 +1,33 @@
-# Página web sobre Gabriel García Márquez
+# 🌟 Proyecto Web: Gabriel García Márquez
 
-Este proyecto es una práctica de HTML y CSS que presenta una página web sencilla sobre el escritor colombiano Gabriel García Márquez.
+Este proyecto ha sido desarrollado como parte de la formación FPED (Acciones Preferentemente para Desempleados/as), impartida en CEP Santa Cruz de Tenerife. El objetivo es aplicar conocimientos básicos de HTML y CSS mediante la creación de una página dedicada al escritor Gabriel García Márquez.
 
-## Contenido
+## 📄 Descripción
 
-- Introducción con imagen del autor
-- Biografía resumida
-- Publicaciones destacadas con portadas e información
-- Diseño responsive adaptado a distintos dispositivos
+La página presenta una breve biografía del autor, sus obras más destacadas, y recursos multimedia que enriquecen la experiencia del visitante. Está diseñada con HTML5 y estilizada mediante una hoja de estilos externa en CSS3.
 
-## Tecnologías utilizadas
+## ✅ Requisitos del ejercicio cumplidos
 
-- HTML5
-- CSS3
-- Editor: Visual Studio Code
-- Publicado en: [Neocities](https://tudireccion.neocities.org)
+- [x] Enlace externo a biografía oficial (Wikipedia)
+- [x] Enlace interno con ancla a sección de obras
+- [x] Vídeo incrustado mediante `<iframe>` desde YouTube
+- [x] Hoja de estilos externa correctamente enlazada
+- [x] Estilos CSS aplicados:
+  - Tipografía y formato de texto
+  - Colores de fondo
+  - Bordes en imágenes
+  - Márgenes y relleno
+  - Uso de clases e IDs
+- [x] Publicación en GitHub Pages
 
-## Autor
+## 🧱 Estructura del proyecto
 
-Jorge Del Castillo  
-Trabajo práctico para el curso de diseño web básico. 
+## 🌐 Página publicada
+
+🔗 [Ver proyecto en GitHub Pages](https://JorgeDC1961/escritor.github.io/gabriel-garcia-marquez/)
+
+---
+
+**Autor:** Jorge Del Castillo  
+**Centro:** CEP Santa Cruz de Tenerife  
+**Formación:** FPED — HTML y CSS básico
